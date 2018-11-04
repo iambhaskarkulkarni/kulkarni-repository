@@ -1,0 +1,15 @@
+{
+	"id": 14,
+	"firstName": "Bhaskar",
+	"lastName": "Kulkarni",
+	"active": true,
+	"address": {
+		"street": "2nd main 4th cross chandra layout",
+		"city": "Bengaluru",
+		"state": "Karnataka",
+		"zip": "560072",
+		"country": "India"
+	},
+	"languages" : ["Java", "C#", "Python", "Javascript"],
+	"company":"advaya"
+}
